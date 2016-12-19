@@ -23,11 +23,11 @@
     "direction": "NOT COMPUTABLE", 
     "sgv": 123, 
     "dateString": "2016-12-19T09:49:23-08:00", 
-    "date": 1482169763000, 
-    "unfiltered": 135136, 
-    "filtered": 124736, 
     "device": "openaps://indy-e1/cgm", 
+    "unfiltered": 135136, 
     "rssi": 177, 
+    "date": 1482169763000, 
+    "filtered": 124736, 
     "type": "sgv", 
     "glucose": 123
   }
