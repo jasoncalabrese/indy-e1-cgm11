@@ -1,6 +1,38 @@
 [
   {
     "trend_arrow": "45_DOWN", 
+    "display_time": "2016-12-28T21:00:00-08:00", 
+    "noise": 1, 
+    "direction": "FortyFiveDown", 
+    "system_time": "2016-12-29T04:46:20-08:00", 
+    "sgv": 152, 
+    "dateString": "2016-12-28T21:00:00-08:00", 
+    "device": "openaps://indy-e1/cgm", 
+    "unfiltered": 158432, 
+    "rssi": 180, 
+    "date": 1482987600000.0, 
+    "filtered": 163936, 
+    "type": "sgv", 
+    "glucose": 152
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "display_time": "2016-12-28T20:55:00-08:00", 
+    "noise": 1, 
+    "direction": "FortyFiveDown", 
+    "system_time": "2016-12-29T04:41:21-08:00", 
+    "sgv": 155, 
+    "dateString": "2016-12-28T20:55:00-08:00", 
+    "device": "openaps://indy-e1/cgm", 
+    "unfiltered": 160256, 
+    "rssi": 436, 
+    "date": 1482987300000.0, 
+    "filtered": 173312, 
+    "type": "sgv", 
+    "glucose": 155
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
     "display_time": "2016-12-28T20:50:00-08:00", 
     "noise": 1, 
     "direction": "FortyFiveDown", 
@@ -62,37 +94,5 @@
     "filtered": 168320, 
     "type": "sgv", 
     "glucose": 184
-  }, 
-  {
-    "trend_arrow": "SINGLE_UP", 
-    "display_time": "2016-12-28T20:30:00-08:00", 
-    "noise": 1, 
-    "direction": "SingleUp", 
-    "system_time": "2016-12-29T04:16:21-08:00", 
-    "sgv": 174, 
-    "dateString": "2016-12-28T20:30:00-08:00", 
-    "device": "openaps://indy-e1/cgm", 
-    "unfiltered": 175840, 
-    "rssi": 187, 
-    "date": 1482985800000.0, 
-    "filtered": 158688, 
-    "type": "sgv", 
-    "glucose": 174
-  }, 
-  {
-    "trend_arrow": "SINGLE_UP", 
-    "display_time": "2016-12-28T20:25:00-08:00", 
-    "noise": 1, 
-    "direction": "SingleUp", 
-    "system_time": "2016-12-29T04:11:20-08:00", 
-    "sgv": 158, 
-    "dateString": "2016-12-28T20:25:00-08:00", 
-    "device": "openaps://indy-e1/cgm", 
-    "unfiltered": 162656, 
-    "rssi": 188, 
-    "date": 1482985500000.0, 
-    "filtered": 150208, 
-    "type": "sgv", 
-    "glucose": 158
   }
 ]
